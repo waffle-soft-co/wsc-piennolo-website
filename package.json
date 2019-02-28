@@ -1,0 +1,11 @@
+{
+  "name": "wsc-piennolo-website",
+  "version": "1.0.0",
+  "description": "Piennolo Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Waffle Soft Co. c/o Andre Wanlin",
+  "license": "MIT"
+}
